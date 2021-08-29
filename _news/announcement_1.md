@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-06-19 
 inline: true
 ---
 
-A simple inline announcement.
+Outstanding Reviewer at CVPR 2020 and CVPR 2021 :1st_place_medal:

@@ -9,6 +9,11 @@
     {% else %}
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
+    <div class="row">
+    {% if entry.award %}
+      <img class="rounded-circle img-fluid d-block mx-auto"  src="{{'/assets/img/best-paper-award.png' | relative_url }}">
+    {% endif %}
+    </div>
   {% endif %}
   </div>
 
@@ -128,6 +133,12 @@
     {% endif %}
     {% if entry.website %}
       <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
+    {% endif %}
+    {% if entry.award %}
+      <a href=""   class="btn btn-sm z-depth-0" role="button" target="_blank">{{entry.award}}</a>
+    {% endif %}
+    {% if entry.media %}
+      <a href="{{ entry.media | prepend: '/news/' | relative_url }}"   class="btn btn-info" role="button" target="_blank">Press/Media</a>
     {% endif %}
     </div>
 

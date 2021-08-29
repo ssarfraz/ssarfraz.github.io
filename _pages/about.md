@@ -2,23 +2,41 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Senior Scientist Computer Vision, Machine Learning, AI
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: sarfraz_saquib.jpg
+  
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<style>
+#more {display: none;}
+</style>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>I am an active researcher in the field of computer vision and machine learning. I recieved a PhD degree in computer vision from  <a href="https://www.tu.berlin/en/" target="_blank"><b>Techincal University of Berlin</b></a>, Germany in 2009. At present, I share my time both at <a href="https://www.daimler-tss.com/en/" target="_blank"><b>Daimler</b></a> in the Autonomus Systems Unit as Senior Scientist computer vision & deep learining and at <a href="https://cvhci.anthropomatik.kit.edu/" target="_blank"><b>Karlsruhe Institue of Technology (KIT)</b></a> as a senior scientist and Lecturer<span id="dots">.</span><span id="more"> At Daimler, my responsibilities include setting/innovate the strategic computer vision related projects for ADAS and smart factory. At the CV-HCI lab KIT, I am the team lead for the work in the direction of perception of people for HCI & surveillance related applications and also member of several related funded projects. Before moving to KIT I served as an assistant professor (From 2009 till 2012) at the Electrical Engineering department of <a href="https://lahore.comsats.edu.pk/About_CIIT.aspx" target="_blank"><b>COMSATS Institute of Technology</b></a> in Lahore, Pakistan. There I founded and directed the Computer Vision Research Group.</span></p>
+<button onclick="myFunction()" id="myBtn">Read more</button>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<b>Research Interests:</b> Deep Learning, Image and Video Understanding
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
