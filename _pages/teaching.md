@@ -27,7 +27,7 @@ nav: true
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_2108.php">Deep Learning for Computer Vision</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_2108.php" target="_blank">Deep Learning for Computer Vision</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -46,7 +46,7 @@ nav: true
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_2112.php">Biometric Systems for Person Identification</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_2112.php" target="_blank">Biometric Systems for Person Identification</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -84,7 +84,7 @@ nav: true
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1979.php">Computer Vision for Human-Computer interaction</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1979.php" target="_blank">Computer Vision for Human-Computer interaction</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -127,7 +127,7 @@ Freitags: 10:00-11:30<br>
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1924.php">Deep Learning for Computer Vision</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1924.php" target="_blank">Deep Learning for Computer Vision</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -135,7 +135,7 @@ Freitags: 10:00-11:30<br>
         
 <td>2018-04-23<br>
 11:30 - 13:00 wöchentlich<br>
-<a href="http://www.kit.edu/besuchen/campusplan.php?id=50.34">50.34</a> Raum -101 INFORMATIK, Kollegiengebäude am Fasanengarten<br>
+<a href="http://www.kit.edu/besuchen/campusplan.php?id=50.34" target="_blank">50.34</a> Raum -101 INFORMATIK, Kollegiengebäude am Fasanengarten<br>
 </td>
     </tr>
    
@@ -146,7 +146,7 @@ Freitags: 10:00-11:30<br>
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1928.php">Biometric Systems for Person Identification</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1928.php" target="_blank">Biometric Systems for Person Identification</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -154,7 +154,7 @@ Freitags: 10:00-11:30<br>
         
 <td>2018-04-26<br>
 14:00 - 15:30 wöchentlich<br>
-R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08</a>) <br>
+R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08" target="_blank">07.08 </a>) <br>
 
 </td>
 </tr>
@@ -168,7 +168,7 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
     
 <tbody>
 <tr>
-<th  style="color:rgb(61,133,198)"><b><font size="3">SS- 19</font></b></th>
+<th  style="color:rgb(61,133,198)"><b><font size="3">SS-19</font></b></th>
 </tr>
 <tr>
         
@@ -183,7 +183,7 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1780.php">Deep Learning for Computer Vision</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1780.php" target="_blank">Deep Learning for Computer Vision</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -191,7 +191,7 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
         
 <td>2018-04-23<br>
 11:30 - 13:00 wöchentlich<br>
-<a href="http://www.kit.edu/besuchen/campusplan.php?id=50.34">50.34</a> Raum -101 INFORMATIK, Kollegiengebäude am Fasanengarten<br>
+<a href="http://www.kit.edu/besuchen/campusplan.php?id=50.34" target="_blank">50.34</a> Raum -101 INFORMATIK, Kollegiengebäude am Fasanengarten<br>
 </td>
     </tr>
    
@@ -202,7 +202,7 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1782.php">Biometric Systems for Person Identification</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1782.php" target="_blank">Biometric Systems for Person Identification</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -214,9 +214,9 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
 
 </td>
 </tr>
-
 </tbody>
 </table>
+
 <br>
 
 <table cellpadding="0" cellspacing="0" style="table-layout:fixed">
@@ -237,7 +237,7 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1682.php">Deep Learning for Computer Vision</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1682.php" target="_blank">Deep Learning for Computer Vision</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -256,7 +256,7 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1683.php">Biometric Systems for Person Identification</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1683.php" target="_blank">Biometric Systems for Person Identification</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -293,7 +293,7 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1526.php">Computer Vision für Mensch-Maschine-Schnittstellen (Computer Vision for Human-Computer Interaction)</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1526.php" target="_blank">Computer Vision für Mensch-Maschine-Schnittstellen (Computer Vision for Human-Computer Interaction)</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -312,7 +312,7 @@ R -107 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1482.php">Content based Image and Video Retrieval</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1482.php" target="_blank">Content based Image and Video Retrieval</a></td>
         
 <td>Vorlesung (S)</td>
         
@@ -332,7 +332,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1483.php">Biometric Systems for Person Identification</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1483.php" target="_blank">Biometric Systems for Person Identification</a></td>
         
 <td>Vorlesung (S)</td>
         
@@ -368,7 +368,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1158.php">Computer Vision für Mensch-Maschine-Schnittstellen (Computer Vision for Human-Computer Interaction)</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1158.php" target="_blank">Computer Vision für Mensch-Maschine-Schnittstellen (Computer Vision for Human-Computer Interaction)</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -387,7 +387,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1159.php">Seminar Computer Vision für Mensch-Maschine-Schnittstellen</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1159.php" target="_blank">Seminar Computer Vision für Mensch-Maschine-Schnittstellen</a></td>
         
 <td>Seminar (S)</td>
         
@@ -424,7 +424,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1072.php">Biometric Systems for Person Identification</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1072.php" target="_blank">Biometric Systems for Person Identification</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -440,7 +440,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_1071.php">Inhaltsbasierte Bild- und Videoanalyse (Content-Based Image and Video Retrieval)</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_1071.php" target="_blank">Inhaltsbasierte Bild- und Videoanalyse (Content-Based Image and Video Retrieval)</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -480,7 +480,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_974.php">Biometric Systems for Person Identification</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_974.php" target="_blank">Biometric Systems for Person Identification</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -496,7 +496,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_973.php">Inhaltsbasierte Bild- und Videoanalyse (Content-Based Image and Video Retrieval)</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_973.php" target="_blank">Inhaltsbasierte Bild- und Videoanalyse (Content-Based Image and Video Retrieval)</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -534,7 +534,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_917.php">Computer Vision für Mensch-Maschine-Schnittstellen (Computer Vision for Human-Computer Interaction)</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_917.php" target="_blank">Computer Vision für Mensch-Maschine-Schnittstellen (Computer Vision for Human-Computer Interaction)</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -553,7 +553,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
 </tr>
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_918.php">Seminar Computer Vision für Mensch-Maschine-Schnittstellen</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_918.php" target="_blank">Seminar Computer Vision für Mensch-Maschine-Schnittstellen</a></td>
         
 <td>Seminar (S)</td>
         
@@ -591,7 +591,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_703.php">Inhaltsbasierte Bild- und Videoanalyse (Content-Based Image and Video Retrieval)</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_703.php" target="_blank">Inhaltsbasierte Bild- und Videoanalyse (Content-Based Image and Video Retrieval)</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -629,7 +629,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
         
 <tr>
         
-<td><a href="https://cvhci.anthropomatik.kit.edu/600_745.php">Computer Vision für Mensch-Maschine-Schnittstellen (Computer Vision for Human-Computer Interaction)</a></td>
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_745.php" target="_blank">Computer Vision für Mensch-Maschine-Schnittstellen (Computer Vision for Human-Computer Interaction)</a></td>
         
 <td>Vorlesung (V)</td>
         
@@ -637,7 +637,7 @@ R 003 (Geb. <a href="http://www.kit.edu/besuchen/campusplan.php?id=07.08">07.08<
         
 <td>15.10.2012<br>
 14:00-15:30 <br>
-<a href="http://www.kit.edu/besuchen/campusplan.php?id=50.34">50.34 Raum -101</a><br>
+<a href="http://www.kit.edu/besuchen/campusplan.php?id=50.34" target="_blank">50.34 Raum -101</a><br>
 
 </td>
     </tr>
