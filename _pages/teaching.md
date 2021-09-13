@@ -6,6 +6,49 @@ description: Teaching Schedule for various courses at Karlsruhe Institute of Tec
 nav: true
 ---
 
+<table cellpadding="0" cellspacing="0" style="table-layout:fixed">   
+    
+<tbody>
+<tr>
+<th  style="color:rgb(61,133,198)"><b><font size="3">WS-21/22</font></b></th>
+</tr>
+<tr>
+        
+<th style="width:40%">Title</th>
+        
+<th style="width:20%">Type</th>
+        
+<th style="width:20%">SWS</th>
+        
+<th style="width:20%">Time</th>
+    </tr>
+        
+<tr>
+        
+<td><a href="https://cvhci.anthropomatik.kit.edu/600_2169.php" target="_blank">Deep Learning for Computer Vision II: Advanced Topics</a></td>
+        
+<td>Vorlesung (V)</td>
+        
+<td>2</td>
+        
+<td>2021-10-18<br>
+14:00 - 15:30 wöchentlich<br>
+<a href="http://www.kit.edu/besuchen/campusplan.php?id=50.34" target="_blank">50.34</a> Raum -102 INFORMATIK, Kollegiengebäude am Fasanengarten<br>
+</td>
+    </tr>
+   
+<tr>
+<td><br>
+ 
+</td>
+</tr>
+
+</tbody>
+</table>
+<br>
+
+
+
 <table cellpadding="0" cellspacing="0" style="table-layout:fixed">
     
 
