@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-03-01
+date: 2021-09-28
 inline: true
 ---
 
-Paper accepted to CVPR 2021 on un-supervised video segmentation!
+Paper accepted at NeurIPS 2021 on domain adaptive object detection!
