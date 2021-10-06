@@ -1,6 +1,20 @@
 ---
 ---
 
+@inproceedings{neurips21_akhtar,
+  abbr={NeurIPS},
+  title={Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection},
+  author={Munir, Muhammad AKhtar and Khan, Muhammad Haris and Sarfraz, M Saquib and Ali, Mohsen},
+  booktitle={35th Conference on Neural Information Processing Systems (NeurIPS)},
+  pages={},
+  year={2021},
+  abstract={We study adapting trained object detectors to unseen domains manifesting significant variations of object appearance, viewpoints and backgrounds. Most current methods align domains by either using image-level or instance-level feature alignment in an adversarial fashion. This often suffers due to the presence of unwanted background and as such lacks class-specific alignment since the target domain is unlabelled. A common remedy to promote class-level alignment is to use high confidence predictions on the new domain as pseudo labels. These high confidence predictions are often fallacious since the model is poorly calibrated under domain shift. In this paper, we propose to leverage model’s predictive uncertainty to strike the right balance between adversarial feature alignment and class-level alignment. Specifically, we measure predictive uncertainty on class assignments and the bounding box predictions. Certain predictions are used to generate pseudo labels for self-supervision, whereas the uncertain ones are used to generate tiles for an adversarial feature alignment stage. This synergy between tiling around the uncertain object regions and generating pseudo-labels from certain object regions allows us to capture both the image and instance level context during the model adaptation stage.
+            We perform extensive experiments covering various domain shift scenarios. Our approach improves upon existing state-of-the-art methods with visible margins.},
+  html={https://arxiv.org/abs/2110.00249},
+  pdf={https://arxiv.org/pdf/2110.00249.pdf},
+  code={http://im.itu.edu.pk/synergizing-domain-adaptation/}
+
+}
 ############ Selected Papers ###############
 
 
@@ -76,21 +90,6 @@
 
 
 ######################################################
-@inproceedings{neurips21_akhtar,
-  abbr={NeurIPS},
-  title={Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection},
-  author={Munir, Muhammad AKhtar and Khan, Muhammad Haris and Sarfraz, M Saquib and Ali, Mohsen},
-  booktitle={35th Conference on Neural Information Processing Systems (NeurIPS)},
-  pages={},
-  year={2021},
-  abstract={We study adapting trained object detectors to unseen domains manifesting significant variations of object appearance, viewpoints and backgrounds. Most current methods align domains by either using image-level or instance-level feature alignment in an adversarial fashion. This often suffers due to the presence of unwanted background and as such lacks class-specific alignment since the target domain is unlabelled. A common remedy to promote class-level alignment is to use high confidence predictions on the new domain as pseudo labels. These high confidence predictions are often fallacious since the model is poorly calibrated under domain shift. In this paper, we propose to leverage model’s predictive uncertainty to strike the right balance between adversarial feature alignment and class-level alignment. Specifically, we measure predictive uncertainty on class assignments and the bounding box predictions. Certain predictions are used to generate pseudo labels for self-supervision, whereas the uncertain ones are used to generate tiles for an adversarial feature alignment stage. This synergy between tiling around the uncertain object regions and generating pseudo-labels from certain object regions allows us to capture both the image and instance level context during the model adaptation stage.
-            We perform extensive experiments covering various domain shift scenarios. Our approach improves upon existing state-of-the-art methods with visible margins.},
-  html={https://arxiv.org/abs/2110.00249},
-  pdf={https://arxiv.org/pdf/2110.00249.pdf},
-  code={http://im.itu.edu.pk/synergizing-domain-adaptation/}
-
-}
-
 
 @inproceedings{diba_iccv21,
   abbr={ICCV},
