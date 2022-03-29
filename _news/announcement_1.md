@@ -4,4 +4,4 @@ date: 2021-06-19
 inline: true
 ---
 
-Outstanding Reviewer at CVPR 2020 and CVPR 2021 :1st_place_medal:
+Outstanding Reviewer Awards at CVPR 2020, CVPR 2021 and ICCV 2021 :1st_place_medal:

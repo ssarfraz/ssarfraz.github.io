@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-08-31 
+date: 2022-03-5 
 inline: true
 ---
 
-Outstanding Reviewer Award at ICCV 2021 :1st_place_medal:
+Paper accepted at CVPR 2022 on dimensionality reduction and visualization!
