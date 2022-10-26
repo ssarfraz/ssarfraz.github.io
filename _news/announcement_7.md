@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-09-16
+date: 2022-09-15
 inline: true
 ---
 
-Best Industry Paper Award at 30th British Machine Vision Conference (BMVC) 2019  :1st_place_medal:
+Paper accepted at NeurIPS 2022 on object detectors' calibration!
