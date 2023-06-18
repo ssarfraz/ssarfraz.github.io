@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-5 
+date: 2023-06-17 
 inline: true
 ---
 
-Paper accepted at CVPR 2022 on dimensionality reduction and visualization!
+Outstanding Reviewer Award at CVPR 2023 :1st_place_medal:
