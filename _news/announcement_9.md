@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-5 
+date: 2024-05-1
 inline: true
 ---
 
-Paper accepted at CVPR 2022 on dimensionality reduction and visualization!
+Paper accepted at CVPR 2024 on single domain generalization!
