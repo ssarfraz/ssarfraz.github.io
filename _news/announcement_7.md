@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-05-15
+date: 2024-05-1
 inline: true
 ---
 
-Position paper accepted at ICML 2024 on Timeseries Anomaly Detection !
+Position paper at ICML 2024 on Time Series Anomaly Detection !
