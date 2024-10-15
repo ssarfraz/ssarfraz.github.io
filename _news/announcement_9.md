@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-03-1
+date: 2024-10-1
 inline: true
 ---
 
-Paper accepted at CVPR 2024 on single domain generalization !
+Two paper/s accepted at NeurIPS 2024 and one at ECCV 2024!
