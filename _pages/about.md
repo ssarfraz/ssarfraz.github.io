@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Senior Scientist Computer Vision, Machine Learning, AI
+description: Computer Vision, Machine Learning, AI
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 #more {display: none;}
 </style>
 
-<p>I am an active researcher in the field of computer vision and machine learning. I recieved a PhD degree in computer vision from  <a href="https://www.tu.berlin/en/" target="_blank"><b>Technical University of Berlin</b></a>, Germany in 2009. At present, I share my time both at <a href="https://www.mercedes-benz-techinnovation.com/en/" target="_blank"><b>Mercedes-Benz</b></a> in the Autonomous Systems Unit as Lead Deep Learning and at <a href="https://cvhci.anthropomatik.kit.edu/" target="_blank"><b>Karlsruhe Institue of Technology (KIT)</b></a> as a Senior Scientist and Lecturer.<span id="dots">.</span><span id="more"> At Mercedes-Benz, my responsibilities include setting/innovate the strategic computer vision related projects for ADAS and smart factory. At the CV-HCI lab KIT, I am the team lead for the work in the direction of perception of people for HCI & surveillance related applications and also member of several related funded projects. Before moving to KIT I served as an assistant professor (From 2009 till 2012) at the Electrical Engineering department of <a href="https://lahore.comsats.edu.pk/About_CIIT.aspx" target="_blank"><b>COMSATS Institute of Technology</b></a> in Lahore, Pakistan. There I founded and directed the Computer Vision Research Group.</span></p>
+<p>I am an active researcher in the field of computer vision and machine learning. I recieved a PhD degree in computer vision from  <a href="https://www.tu.berlin/en/" target="_blank"><b>Technical University of Berlin</b></a>, Germany in 2009. At present, I share my time both at <a href="https://www.mercedes-benz-techinnovation.com/en/" target="_blank"><b>Mercedes-Benz</b></a> in the Autonomous Systems Unit as Principal Lead Deep Learning and at <a href="https://cvhci.anthropomatik.kit.edu/" target="_blank"><b>Karlsruhe Institue of Technology (KIT)</b></a> as a Senior Scientist and Lecturer.<span id="dots">.</span><span id="more"> At Mercedes-Benz, my responsibilities include setting/innovate the strategic computer vision related projects for ADAS and smart factory. At the CV-HCI lab KIT, I am the team lead for the work in the direction of perception of people for HCI & surveillance related applications and also member of several related funded projects. Before moving to KIT I served as an assistant professor (From 2009 till 2012) at the Electrical Engineering department of <a href="https://lahore.comsats.edu.pk/About_CIIT.aspx" target="_blank"><b>COMSATS Institute of Technology</b></a> in Lahore, Pakistan. There I founded and directed the Computer Vision Research Group.</span></p>
 <button onclick="myFunction()" id="myBtn">Read more</button>
 
 <b>Research Interests:</b> Deep Learning, Image and Video Understanding
