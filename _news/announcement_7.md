@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-05-1
+date: 2025-06-12
 inline: true
 ---
 
-Position paper at ICML 2024 on Time Series Anomaly Detection !
+CVPR 2025 tutorial on  <a href="https://identifying-structure-in-data.github.io" target="_blank">identifying structure in data</a>
