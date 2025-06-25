@@ -5,6 +5,45 @@ title: teaching
 description: Teaching Schedule for various courses at Karlsruhe Institute of Technology (KIT)
 nav: true
 ---
+<table cellpadding="0" cellspacing="0" style="table-layout:fixed">   
+    
+<tbody>
+<tr>
+<th  style="color:rgb(61,133,198)"><b><font size="3">SS-24/25</font></b></th>
+</tr>
+<tr>
+        
+<th style="width:40%">Title</th>
+        
+<th style="width:20%">Type</th>
+        
+<th style="width:20%">SWS</th>
+        
+<th style="width:20%">Time</th>
+    </tr>
+        
+<tr>
+        
+<td><a href="https://cvhci.iar.kit.edu/600_2631.php" target="_blank">Multimodal Large Language Models</a></td>
+        
+<td>Seminar/Vorlesung</td>
+        
+<td>2</td>
+        
+<td>2025-04-24<br>
+14:00 - 15:30 wöchentlich<br>
+</td>
+    </tr>
+   
+<tr>
+<td><br>
+ 
+</td>
+</tr>
+
+</tbody>
+</table>
+<br>
 
 <table cellpadding="0" cellspacing="0" style="table-layout:fixed">   
     
